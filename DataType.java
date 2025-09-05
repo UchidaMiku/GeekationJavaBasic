@@ -10,7 +10,7 @@ public class DataType {
 		System.out.println(3.14);
 		System.out.println(true);
 
-		// TODO 自動生成されたメソッド・スタブ
+		
 
 	}
 
